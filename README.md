@@ -428,7 +428,7 @@ user@ubuntu:~/AirBnB_v3$ curl -X GET http://0.0.0.0:5000/api/v1/cities/1da255c0-
 At this time, there are no known bugs.
 
 ## Authors
-Becky Chen | [GitHub](https://github.com/DELMUS1M) | [Twitter](https://twitter.com/DELMUS OGORA)
+DELMUS OGORA | [GitHub](https://github.com/DELMUS1M) | [Twitter](https://twitter.com/DELMUSOGORA)
 ## License
 
 **hbnb** is open source and free to download and use
